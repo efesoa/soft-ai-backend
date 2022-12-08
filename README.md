@@ -15,3 +15,9 @@ Start django rest app by running the command in the project directory
 ### `python manage.py runserver`
 
 Open [http://127.0.0.1:8000/admin/](http://127.0.0.1:8000/admin/) to view the django admin in your browser and login.
+
+## Running test
+
+Open a terminal in the project directory and run the command 'pytest'
+
+### `pytest`
